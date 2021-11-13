@@ -1,0 +1,21 @@
+12 x 11
+Af V KEEPER
+Fc H LIAR
+Dc H DEEP
+Ac H PEEK
+Bf H EMPIRE
+Ef H ENTER
+
+  a b c d e f g h i j k 
+A     P E E K          
+B           E M P I R E
+C           E          
+D     D E E P          
+E           E N T E R  
+F     L I A R          
+G                      
+H                      
+I                      
+J                      
+K                      
+L                      

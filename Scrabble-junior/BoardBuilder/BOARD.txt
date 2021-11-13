@@ -1,0 +1,46 @@
+15 x 15
+Ab V FRUIT
+Ca H MUSIC
+Bd V BICYCLE
+Eb H TOY
+Hc H TELEVISION
+Ef V SHEEP
+Je V JACKET
+Kd H WATER
+Mc V SUN
+Nb H QUEEN
+Gh V TIGER
+Bg H BUZZ
+Ah V DUCK
+Bj V ZEBRA
+Dj H BOAT
+Fj H ARCADE
+Ak H EGGS
+Am V GOAT
+Cm H ARM
+Co V MONEY
+Fl V CANDY
+Il H DOG
+Jj H BOY
+In V GRAPES
+Kn H AX
+Ll V BALL
+Mj V APE
+Ni H APPLES
+
+  a b c d e f g h i j k l m n o 
+A   F           D     E G G S  
+B   R   B     B U Z Z     O    
+C M U S I C     C   E     A R M
+D   I   C       K   B O A T   O
+E   T O Y   S       R         N
+F       C   H       A R C A D E
+G       L   E   T       A     Y
+H     T E L E V I S I O N      
+I           P   G       D O G  
+J         J     E   B O Y   R  
+K       W A T E R           A X
+L         C             B   P  
+M     S   K         A   A   E  
+N   Q U E E N     A P P L E S  
+O     N   T         E   L      

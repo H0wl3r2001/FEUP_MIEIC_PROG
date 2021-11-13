@@ -1,0 +1,17 @@
+10 x 10
+Aa H MIAMI
+Ac V AMIGO
+Ca H CLIENT
+Ae V INNER
+
+  a b c d e f g h i j 
+A M I A M I          
+B     M   N          
+C C L I E N T        
+D     G   E          
+E     O   R          
+F                    
+G                    
+H                    
+I                    
+J                    

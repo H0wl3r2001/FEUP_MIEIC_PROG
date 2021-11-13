@@ -1,0 +1,33 @@
+20 x 5
+Aa V MORE
+Aa H MORE
+Ad V EAST
+Da H EAST
+Dc V SATAN
+Ha H FAN
+Fc H TRY
+Fe V YELLOW
+Ma H THE
+Mc V END
+
+  a b c d e 
+A M O R E  
+B O     A  
+C R     S  
+D E A S T  
+E     A    
+F     T R Y
+G     A   E
+H F A N   L
+I         L
+J         O
+K         W
+L          
+M T H E    
+N     N    
+O     D    
+P          
+Q          
+R          
+S          
+T          

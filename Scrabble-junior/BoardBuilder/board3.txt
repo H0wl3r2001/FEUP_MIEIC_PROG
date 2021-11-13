@@ -1,0 +1,14 @@
+6 x 6
+Ab H FAIRY
+Ca H MUSIC
+Eb H TOY
+Ab V FRUITY
+Cd V ICY
+
+  a b c d e f 
+A   F A I R Y
+B   R        
+C M U S I C  
+D   I   C    
+E   T O Y    
+F   Y        

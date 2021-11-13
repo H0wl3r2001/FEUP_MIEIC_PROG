@@ -1,0 +1,14 @@
+7 x 20
+Bb H CHANNEL
+Ag V PEN
+Be V NEVER
+At V END
+
+  a b c d e f g h i j k l m n o p q r s t 
+A             P                         E
+B   C H A N N E L                       N
+C         E   N                         D
+D         V                              
+E         E                              
+F         R                              
+G                                        
